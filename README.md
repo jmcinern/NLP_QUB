@@ -1,2 +1,2 @@
 # NLP_QUB
-NLP Moduke: Linguistic features, Word Embedding, Transfer Learning, LLM
+NLP Module: Linguistic features, Word Embedding, Transfer Learning, LLM
